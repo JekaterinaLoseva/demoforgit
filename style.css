@@ -93,3 +93,20 @@ img{
 }
 /* --------------- /базовые настройки ---------*/
 
+.left {
+	height: 200px;
+	width: 300px;
+	float: left;
+	background-color: #ccc;
+}
+
+.right {
+	height: 200px;
+	width: 700px;
+	float: left;
+	background-color: #ddd;
+}
+
+footer {
+	clear: both;
+}
